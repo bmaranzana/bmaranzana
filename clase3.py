@@ -12,7 +12,7 @@ print(f"extend():{lista}")
 
 
 lista1= [1, 2, 3]
-lista1.inser(1, 1.5) # (posicion, valor)
+lista1.insert(1, 1.5) # (posicion, valor)
 print(f"insert():{lista1}")
 
 
