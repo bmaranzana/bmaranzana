@@ -6,6 +6,13 @@ libros = [
     # Agrega más libros aquí
 ]
 
+libros = [
+    {'id': 1, 'titulo': ' ', 'editorial': ' '}
+]
+clientes = [
+    
+]
+
 # Listas para registrar préstamos y ventas
 prestamos = []  # (fecha, id_libro, monto)
 ventas = []     # (fecha, id_libro, monto)
